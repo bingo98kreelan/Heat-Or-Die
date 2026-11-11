@@ -199,4 +199,4 @@ This repository serves as the official landing page for Heat or Die. The softwar
 **Get the most recent version of Heat or Die today!**
 
 ---
-**Last updated:** 2026-11-10 22:14:08 UTC
+**Last updated:** 2026-11-11 02:38:29 UTC
